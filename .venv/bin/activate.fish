@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/kimotho/Ortho26/handcrafted_projects/property_websites/for_wanjiku_mwangi/.venv
+set -gx VIRTUAL_ENV /home/kimotho/Ortho27/handcrafted_projects/property_websites/for_wanjiku_mwangi/.venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH

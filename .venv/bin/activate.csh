@@ -9,7 +9,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV /home/kimotho/Ortho26/handcrafted_projects/property_websites/for_wanjiku_mwangi/.venv
+setenv VIRTUAL_ENV /home/kimotho/Ortho27/handcrafted_projects/property_websites/for_wanjiku_mwangi/.venv
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/"bin":$PATH"
